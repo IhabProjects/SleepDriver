@@ -264,7 +264,7 @@ The system may require adjustment for different users:
 The core algorithm relies on the Eye Aspect Ratio (EAR) formula:
 
 <div align="center">
-  <img src="https://learnopencv.com/wp-content/uploads/2021/06/eyes_landmarks.jpg" alt="EAR Formula" width="400"/>
+  <img src="https://user-images.githubusercontent.com/34163796/56676218-1db91900-66be-11e9-91f5-6a35b7b6f094.jpg" alt="EAR Formula" width="400"/>
 </div>
 
 In SleepDriver, we approximate this using MediaPipe landmarks:
